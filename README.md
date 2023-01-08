@@ -1,3 +1,3 @@
 # Machine-Learning-Linier-Regression
 Linier Regression
-Pada projek ii kita akan menerapkan linier regresion dengan satu variabel dan juga multiple variabel untuk memprediksi keuntungan sebuah truk makanan.
+Dari hasil praktikum diatas diketahui bahwa hasil prediksi memiliki nilai keakuratan yang baik hal itu dibuktikan dengan hasil erornya yang kecil juga semakin tinggi epochnya semakin kecil erornya, Maka dari itu dimungkinkan untuk menggunakan Regresi Linier dengan algoritma gradient desenct untuk melakukan prediksi mengenai profit dari penjualan food truck.
