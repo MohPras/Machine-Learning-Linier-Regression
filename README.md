@@ -1,5 +1,5 @@
 # Machine-Learning-Linier-Regression
-Linier Regression
+
 Pada latihan ini, tugas kita adalah mengimplementasikan regresi linier dengan satu variabel untuk memprediksi keuntungan untuk sebuah truk makanan. Misalkan Anda adalah CEO dari sebuah waralaba restoran dan sedang mempertimbangkan kota-kota yang berbeda untuk membuka outlet baru. Tujuan kita adalah untuk membuat model regresi linier yang dapat memprediksi keuntungan truk makanan berdasarkan jumlah penduduk di kota tersebut. Kita akan menggunakan gradient descent untuk mencari nilai koefisien dari model regresi linier yang sesuai.
 
 Dari hasil praktikum diatas diketahui bahwa hasil prediksi memiliki nilai keakuratan yang baik hal itu dibuktikan dengan hasil erornya yang kecil juga semakin tinggi epochnya semakin kecil erornya, Maka dari itu dimungkinkan untuk menggunakan Regresi Linier dengan algoritma gradient desenct untuk melakukan prediksi mengenai profit dari penjualan food truck.
